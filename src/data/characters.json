@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Balthazar Picsou",
+    "age": 150,
+    "gender": "masculin"
+  },
+  {
+    "id": 2,
+    "name": "Riri",
+    "age": 10,
+    "gender": "masculin"
+  },
+  {
+    "id": 3,
+    "name": "Fifi",
+    "age": 10,
+    "gender": "masculin"
+  },
+  {
+    "id": 4,
+    "name": "Loulou",
+    "age": 10,
+    "gender": "masculin"
+  },
+  {
+    "id": 5,
+    "name": "Zaza",
+    "age": 10,
+    "gender": "féminin"
+  },
+  {
+    "id": 6,
+    "name": "Flagada Jones",
+    "age": 35,
+    "gender": "masculin"
+  },
+  {
+    "id": 7,
+    "name": "Mamie Baba",
+    "age": 65,
+    "gender": "féminin"
+  },
+  {
+    "id": 8,
+    "name": "Donald Duck",
+    "age": 40,
+    "gender": "masculin"
+  },
+  {
+    "id": 9,
+    "name": "Della Duck",
+    "age": 40,
+    "gender": "féminin"
+  },
+  {
+    "id": 10,
+    "name": "Géo Trouvetou",
+    "age": 30,
+    "gender": "masculin"
+  }
+]
